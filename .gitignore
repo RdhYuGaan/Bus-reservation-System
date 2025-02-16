@@ -1,0 +1,29 @@
+# Node.js dependencies
+/backend/node_modules
+/frontend/node_modules
+/feedback-service/node_modules
+
+# Environment files
+/backend/.env
+/frontend/.env
+/feedback-service/.env
+
+# Logs
+/backend/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+/frontend/dist
+.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# System Files
+Thumbs.db
+*.DS_Store
